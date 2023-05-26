@@ -25,6 +25,8 @@ In my results the PCA optimized clusters show that the clusters become more dist
 
 See images below: 
 
+<img width="706" alt="Clusters" src="https://github.com/hawaiidani/Crypto_Investments/assets/127795314/7f2823b6-bdd5-4588-96f8-e5c88d851725">
+<img width="719" alt="PCA Clusters" src="https://github.com/hawaiidani/Crypto_Investments/assets/127795314/ff3bf12a-eaf9-4c07-b80f-8fbc31ec3fab">
 
 
 
